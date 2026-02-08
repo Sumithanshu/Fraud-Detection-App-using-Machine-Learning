@@ -1,0 +1,1 @@
+built an end-to-end Machine Learning application designed to identify fraudulent activity within a financial transaction dataset. The dataset includes various transaction types like Payment, Transfer, Cash-out, and Deposit, which provided a realistic simulation of mobile or digital banking.
